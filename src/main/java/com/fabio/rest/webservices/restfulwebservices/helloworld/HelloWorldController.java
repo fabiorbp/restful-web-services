@@ -1,4 +1,5 @@
-package com.fabio.rest.webservices.restfulwebservices;
+package com.fabio.rest.webservices.restfulwebservices.helloworld;
+
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
